@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=itachi-05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🔭 I’m currently working on **REST API Integration**
+- 🔭 I’m currently working on **Firebase and its functions**
 
 - 🌱 I’m currently learning **Kotlin & Jetpack Compose**
 
